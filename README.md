@@ -14,11 +14,10 @@ Example Output
 This CNN model was developed using Keras, a deep learning library. It consists of convolutional, pooling, dropout, and dense layers to achieve high accuracy in classifying images of cats and dogs. The model trains on an example dataset and can then make predictions on new images.
 
 ## Requirements
-Python 3.x
-TensorFlow 2.x
-Keras
-NumPy
-Install the requirements using:
+Python 3.x 
+TensorFlow 2.x 
+Keras 
+NumPy 
 
 ## Model Architecture
 Convolutional Layers: Three convolutional layers with ReLU activation.
